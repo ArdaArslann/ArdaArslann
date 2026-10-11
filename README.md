@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Arda Arslan, Backend and Android Developer. Java, Spring Boot, Kotlin, Jetpack Compose. Available now for remote, part-time and contract work; full-time from July 2027.">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" width="100%" alt="Arda Arslan, Backend and Android Developer. Java, Spring Boot, Kotlin, Jetpack Compose. Available now for remote, part-time and contract work; full-time from July 2027.">
 </picture>
 
 I build backend services with **Java and Spring Boot** and Android apps with **Kotlin and Jetpack Compose**. I'm a final-year Computer Engineering student at Çanakkale Onsekiz Mart University, graduating in June 2027, with internships in fintech backend and Android development.
